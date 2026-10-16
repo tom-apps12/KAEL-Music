@@ -1,0 +1,12 @@
+# Local Android SDK settings
+local.properties
+
+# Build output and caches
+.gradle/
+.kotlin/
+**/build/
+
+# IDE files
+.idea/
+*.iml
+.DS_Store
